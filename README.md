@@ -1,4 +1,5 @@
 # Windows Login Monitor
+- Created by Jyoti Maity
 
 ## 🔐 Project Description
 Windows Login Monitor is a Python-based security monitoring tool that analyzes
@@ -40,6 +41,3 @@ on Windows systems.
 Install dependency:
 ```bash
 pip install pywin32
-
-
-- Created by Jyoti Maity
